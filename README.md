@@ -13,7 +13,7 @@ I enjoy experimenting with projects and sharing knowledge.
 
 ### 💻 Top Languages
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shunichkaa&layout=compact&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shunichkaa&layout=compact&theme=radical&hide=c%2B%2B)
 
 ---
 
