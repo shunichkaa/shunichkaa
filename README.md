@@ -7,7 +7,7 @@ I enjoy experimenting with projects and sharing knowledge.
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shunichkaa&show_icons=true&theme=radical&count_private=true&exclude=repo1,repo2)
+![Stats](https://github-readme-stats.vercel.app/api?username=shunichkaa&show_icons=true&theme=radical)
 
 ---
 
