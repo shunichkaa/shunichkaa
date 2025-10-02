@@ -30,13 +30,13 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shunichkaa&theme=radical"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shunichkaa&theme=radical"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shunichkaa&theme=radical"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shunichkaa&theme=gruvbox"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shunichkaa&theme=gruvbox"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shunichkaa&theme=gruvbox"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shunichkaa&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shunichkaa&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -63,7 +63,7 @@ const shunichkaa = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shunichkaa&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shunichkaa&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
