@@ -80,16 +80,6 @@ const shunichkaa = {
 
 ---
 
-## 📫 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shunichkaa)
-
-</div>
-
----
-
 <div align="center">
   
 ### ⭐ Thanks for visiting! Feel free to explore my repositories
