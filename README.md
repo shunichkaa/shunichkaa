@@ -8,7 +8,6 @@
 
 </div>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +24,6 @@
 
 </div>
 
----
 
 ## 📊 GitHub Analytics
 
@@ -39,7 +37,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shunichkaa&theme=cobalt&hide_border=true" alt="GitHub Streak"/>
 </div>
 
----
+
 
 ## 🎯 What I'm Up To
 
@@ -58,15 +56,6 @@ const shunichkaa = {
 };
 ```
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shunichkaa&theme=cobalt&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 💡 What I Love
 
@@ -78,7 +67,7 @@ const shunichkaa = {
 
 </div>
 
----
+
 
 <div align="center">
   
